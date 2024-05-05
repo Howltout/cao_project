@@ -1,0 +1,1 @@
+Implemented a solution to the Traveling Salesman Problem (TSP) using a genetic algorithm approach. The TSP involves finding the shortest route that visits each city exactly once and returns to the original city. This project served as an engaging way to deepen my understanding of Python programming and optimization algorithms.
